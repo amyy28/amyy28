@@ -1,5 +1,7 @@
 ### Hi there!
 
+Resume: https://github.com/amyy28/Aman-Resume/blob/master/Resume.pdf
+
 <!--
 **amyy28/amyy28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
