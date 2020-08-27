@@ -1,4 +1,5 @@
 #### Resume: https://amyy28.github.io/Resume.pdf
+#### Email: bhatnagar.aman1998@gmail.com
 
 <!--
 **amyy28/amyy28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
