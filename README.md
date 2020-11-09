@@ -10,6 +10,14 @@
 
 ![Aman Bhatnagar's Github Stats](https://github-readme-stats.vercel.app/api?username=amyy28&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=1E415E&color=FFFFFF)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=0C4B33&color=FFFFFF)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=D10101&color=FFFFFF)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=E44D26&color=FFFFFF)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=2862E9&color=FFFFFF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E&color=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=533B78&color=FFFFFF)
+
 <!--
 **amyy28/amyy28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
