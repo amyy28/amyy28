@@ -5,7 +5,6 @@
 <a href="https://www.instagram.com/_amanbhatnagar_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-__amanbhatnagar__-red?style=flat-square&logo=instagram"></a>
 <a href="mailto:bhatnagar.aman1998@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Aman-orange?style=flat-square&logo=gmail"></a>
 <a href="https://twitter.com/aman__98"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-aman___98-blue?style=flat-square&logo=twitter"></a>
-<a href="https://medium.com/@bhatnagar.aman1998"><img alt="Medium" src="https://img.shields.io/badge/Medium-@bhatnagar.aman1998-yellowgreen?style=flat-square&logo=medium"></a>
 </p>
 
 ![Aman Bhatnagar's Github Stats](https://github-readme-stats.vercel.app/api?username=amyy28&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
