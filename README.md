@@ -1,7 +1,7 @@
 Hey there! I'm Aman 👋
 
 - 💻 I'm a Software Engineer at JP Morgan Chase & Co.
-- 🔭 I’m currently working on maximizing my productivity at work and self life goals and bringing a balance between them
+- 🔭 I’m currently working on maximizing my productivity at work and life self goals and bringing a balance between them
 - 🌱 I’m currently exploring ReactJS
 - 💬 Ask me about Web development | Health & Nutrition | Investments Stocks and MF's
 - ⚡ Fun fact: In free time, I sing and play guitar. Checkout my recordings on my instagram page!
