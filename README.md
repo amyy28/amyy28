@@ -1,4 +1,4 @@
-#### Resume: https://amyy28.github.io/Resume.pdf
+#### Find my resume [here](https://amyy28.github.io/Resume.pdf)
 
 <p>
 <a href="https://www.linkedin.com/in/aman28/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-aman28-blue?style=flat-square&logo=linkedin"></a>
