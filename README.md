@@ -1,4 +1,4 @@
-Hey there! I'm Aman
+Hey there! I'm Aman 👋
 
 - 💻 I'm a Software Engineer at JP Morgan Chase & Co.
 - 🔭 I’m currently working on maximizing my productivity at work and self life goals and bringing a balance between them
