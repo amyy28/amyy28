@@ -7,7 +7,7 @@
 <a href="https://twitter.com/aman__98"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-aman___98-blue?style=flat-square&logo=twitter"></a>
 </p>
 
-![Aman Bhatnagar's Github Stats](https://github-readme-stats.vercel.app/api?username=amyy28&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amyy28&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&color=1E415E&logoColor=FFFFF)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&color=0C4B33)
