@@ -14,8 +14,6 @@ Hey there! I'm Aman 👋
 <a href="https://twitter.com/aman__98"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-aman___98-blue?style=flat-square&logo=twitter"></a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amyy28&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&color=1E415E&logoColor=FFFFF)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&color=0C4B33)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=D10101&color=FFFFFF)
