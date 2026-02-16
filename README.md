@@ -17,9 +17,9 @@ Hey there! I'm Aman 👋
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&color=1E415E&logoColor=FFFFF)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&color=0C4B33)
-![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet&color=black)
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet&color=yellow)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=D10101&color=FFFFFF)
-![ReactJs](https://img.shields.io/badge/-React-333333?style=flat&logo=react&color=black)
+![ReactJs](https://img.shields.io/badge/-React-333333?style=flat&logo=react&color=blue)
 
 <!--
 **amyy28/amyy28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
