@@ -14,13 +14,11 @@ Hey there! I'm Aman 👋
 <a href="https://twitter.com/aman__98"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-aman___98-blue?style=flat-square&logo=twitter"></a>
 </p>
 
+
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&color=1E415E&logoColor=FFFFF)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&color=0C4B33)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=D10101&color=FFFFFF)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=E44D26&color=FFFFFF)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&color=2862E9)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&color=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&color=533B78)
+![ReactJs](https://img.shields.io/badge/-React-333333?style=flat&logo=react&color=black)
 
 <!--
 **amyy28/amyy28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
