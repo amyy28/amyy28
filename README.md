@@ -17,7 +17,7 @@ Hey there! I'm Aman 👋
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&color=1E415E&logoColor=FFFFF)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&color=0C4B33)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=D10101&color=FFFFFF)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=D10101&color=FFFFFF)
 ![ReactJs](https://img.shields.io/badge/-React-333333?style=flat&logo=react&color=black)
 
 <!--
